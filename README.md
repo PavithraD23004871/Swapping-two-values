@@ -18,9 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```
+#Program to swap two values.
+#Developed by: 
+#RegisterNumber:
+x=input()
+y=input()
+temp=x
+x=y
+y=temp
+print("Swapped values are:",x,y)
+```
+## OUTPUT:
+![Alt text](swapping.png)
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
